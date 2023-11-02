@@ -59,12 +59,17 @@ nav li{
     font-size: medium;
     position:relative;
     top:-170px;
+    width:90px;
+    height:30px;
     
 }
 .btn1{
     font-size: medium;
     position:relative;
     top:-170px;
+    margin-left:10px;
+    width:90px;
+    height:30px;
     
     
 }
